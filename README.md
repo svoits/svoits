@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Serhii Voitsekhovskyi</h1>
 <h3 align="center">A passionate fullstack developer from Ukraine</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React** and **Node.js**
 
 - 📫 How to reach me **voitsekhovskyi.serhii@gmail.com**
 
