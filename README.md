@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Serhii Voitsekhovskyi</h1>
 <h3 align="center">A passionate fullstack developer from Ukraine</h3>
 
-- 🌱 I’m currently learning **TypeScript**
-
 - 📫 How to reach me **voitsekhovskyi.serhii@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
